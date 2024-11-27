@@ -20,13 +20,8 @@ A touch-free, gesture-based system that leverages computer vision to control pre
   - Integrates a live webcam feed within your presentation for a dynamic, interactive experience.  
 
 - **Touch-Free Interface**:  
-  - No need for remotes or keyboards — control everything with your hands!  
-
----
-
-## Demo 🎥  
-
-![Demo](path-to-demo-gif-or-screenshot)  
+  - No need for remotes or keyboards — control everything with your hands!
+  - 
 
 ---
 
