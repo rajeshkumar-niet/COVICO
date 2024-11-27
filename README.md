@@ -1,5 +1,3 @@
----
-
 # COVICO System 🌟  
 **COmputer VIsion COntrol System**  
 
